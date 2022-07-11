@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FizzBuzz</string>
+    <string name="subscribeFieldErrorMandatoryField">Champ obligatoire</string>
+    <string name="subscribeFieldErrorInvalidField">Format invalide</string>
+    <string name="value_2">Valeur 2</string>
+    <string name="word_1">Mot 1</string>
+    <string name="word_2">Mot 2</string>
+    <string name="limit">Valeur limite</string>
+    <string name="start">Start</string>
+    <string name="value_1">Valeur 1</string>
+</resources>
